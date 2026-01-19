@@ -35,7 +35,10 @@ python meta_hunter.py
 the tool was made by walidxxx to be clear it's my first cood juste bring a simple idea to life 
 
 
+⚠️ Disclaimer
+This project is created for educational purposes and ethical hacking research only. The developer (Urwalid) is not responsible for any misuse of this tool. The "stealth copy" feature demonstrates how metadata can be harvested locally and should only be used on systems you own or have explicit permission to test.
 
+<p align="center"> Made with ❤️ by <b>Urwalid</b> </p>
 
 
 thanks 
