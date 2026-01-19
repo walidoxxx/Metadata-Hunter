@@ -32,5 +32,10 @@ python meta_hunter.py
 
 
 
-the tool was made by walid to be clear it's my first cood juste bring a simple a ideas to life 
-thaks 
+the tool was made by walidxxx to be clear it's my first cood juste bring a simple idea to life 
+
+
+
+
+
+thanks 
