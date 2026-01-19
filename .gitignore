@@ -1,0 +1,7 @@
+dist/
+build/
+*.spec
+cache_temp/
+HACKED_DATA/
+__pycache__/
+*.exe
