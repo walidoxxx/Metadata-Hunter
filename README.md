@@ -20,7 +20,17 @@ A powerful, Python-based digital forensics tool designed to extract EXIF metadat
    cd Metadata-Hunter
 1-Install dependencies*:
 pip install pillow
+
+
+
+
+
 2-Run the tool:
 python meta_hunter.py
-the tool was made by walid to be clear it's my first cood juste a simple a ideas 
+
+
+
+
+
+the tool was made by walid to be clear it's my first cood juste bring a simple a ideas to life 
 thaks 
